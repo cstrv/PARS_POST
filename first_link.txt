@@ -1,0 +1,3 @@
+https://medium.com/better-programming/how-to-scrape-tweets-from-twitter-141ed19abb10
+https://medium.com/python-in-plain-english/library-of-the-week-7-beautifulsoup-4-e904c7eebaca
+https://medium.com/@mikeweisser/israel-strikes-back-will-it-work-5e2ffd9b1bf6
